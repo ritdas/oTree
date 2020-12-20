@@ -1,0 +1,32 @@
+{% extends "otree/Page.html" %}
+<!--{% load otree static %}-->
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'global/main.css' %}">
+{% endblock %}
+
+{% block title %}
+    <div class="center">
+        Book Survey
+    </div>
+
+{% endblock %}
+
+{% block content %}
+    {% if player.weblink == 'PC2so67axbY' %}
+        <div class="center">
+            <iframe width="750" height="425" src={{ link }} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        </div>
+    {% else %}
+        <p>
+            You are assigned to the Public Policy Book, please <a href="https://publicpolicybook.herokuapp.com/room/public_policy">click here.</a>
+        </p>
+    {% endif %}
+    <div class="center">
+<!--        <button class="otree-btn-next btn btn-primary">-->
+<!--&lt;!&ndash;            Next&ndash;&gt;-->
+<!--        </button>-->
+    </div>
+{% endblock %}
+
