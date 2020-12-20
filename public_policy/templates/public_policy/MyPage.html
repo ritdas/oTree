@@ -1,0 +1,31 @@
+{% extends "otree/Page.html" %}
+{% load otree static %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'global/main.css' %}">
+{% endblock %}
+
+{% block title %}
+    <div class="center">
+        Book Survey
+    </div>
+{% endblock %}
+
+{% block content %}
+    {% if player.weblink == 'd6_jQXoS0rs' %}
+        <div class="center">
+            <iframe width="750" height="425" src={{ link }} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        </div>
+    {% else %}
+        <p>
+            You are assigned to the Empathy Book, please <a href="https://empathybook.herokuapp.com/room/empathy">click here.</a>
+        </p>
+    {% endif %}
+    <div class="center">
+<!--        <button class="otree-btn-next btn btn-primary">-->
+<!--            Next-->
+<!--        </button>-->
+    </div>
+{% endblock %}
+
