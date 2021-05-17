@@ -1,0 +1,34 @@
+{% extends "otree/Page.html" %}
+{% load otree static %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'global/main.css' %}">
+{% endblock %}
+
+{% block title %}
+    Which field / criterion is important to you?
+{% endblock %}
+
+{% block content %}
+    <div class="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GrY_RzDsqLY" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <br>
+    <p>
+
+        In the following form, you will see 20 areas which might be relevant for a voter in the upcoming Presidential elections. We ask you to express your opinion on the areas which are important to you. You can do this by adding votes to or against the areas. Votes can be cast using credits: you have a total of 100 credits which you can use as explained in the above video. When evaluating, consider the importance of the topic for you.
+    </p>
+    <p>
+
+        If you don't have a preference for an indicator, you can disregard that indicator. You also do not have to use all the credit given to you.
+    </p>
+
+    <br>
+    <div class="center">
+        <button class="otree-btn-next btn btn-primary">
+            Next
+        </button>
+    </div>
+{% endblock %}
+

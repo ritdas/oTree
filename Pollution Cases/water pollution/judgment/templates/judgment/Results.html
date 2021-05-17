@@ -1,0 +1,238 @@
+{% extends "global/Page.html" %}
+{% load i18n %}
+
+{% load otree static %}
+
+{% block styles %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tagmanager/3.0.2/tagmanager.min.css">
+    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">
+    <link rel="stylesheet" href="{% static "css/font-awesome.min.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">
+    <link rel="stylesheet" href="{% static "css/font-awesome.min.css" %}">
+    <link rel="stylesheet" href="{% static "js/FileSaver.js" %}">
+
+{% endblock %}
+
+{% block scripts %}
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tagmanager/3.0.2/tagmanager.min.js"></script>
+
+    <script src="{% static "js/bootstrap.min.js" %}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.js"></script>
+
+{% endblock %}
+
+
+
+{% block title %}
+    Water Pollution Cases
+{% endblock %}
+
+{% block content %}
+
+
+    <!-- Page Content -->
+        <div class="container">
+
+      <div class="row">
+
+
+
+
+
+        <div class="col-md-9">
+            <iframe width="100%" height="600px" class="responsive-iframe" src="{% static link %}"></iframe>#}
+        </div>
+
+
+
+        <div class="col-md-3">
+
+          <form autocomplete="off" action="">
+            <div class="form-group">
+              <div class="row" style="width:300px;">
+                <input id="id_judge1" name= "judge1" type="text" placeholder="Name of Judge 1">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="row" style="width:300px;">
+                <input id="id_judge2" name= "judge2" type="text" placeholder="Name of Judge 2">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="row" style="width:300px;">
+                <input id="id_judge3" name= "judge3" type="text" placeholder="Name of Judge 3">
+              </div>
+            </div>
+
+           <script>
+            function autocomplete(inp, arr) {
+                var currentFocus;
+                inp.addEventListener("input", function(e) {
+                    var a, b, i, val = this.value;
+                    closeAllLists();
+                    if (!val) { return false;}
+                    currentFocus = -1;
+                    a = document.createElement("DIV");
+                    a.setAttribute("id", this.id + "autocomplete-list");
+                    a.setAttribute("class", "autocomplete-items");
+                    this.parentNode.appendChild(a);
+                    for (i = 0; i < arr.length; i++) {
+                       if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+                            b = document.createElement("DIV");
+                            b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+                            b.innerHTML += arr[i].substr(val.length);
+                            b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+                            b.addEventListener("click", function(e) {
+                                inp.value = this.getElementsByTagName("input")[0].value;
+                                closeAllLists();
+                            });
+                            a.appendChild(b);
+                        }
+                    }
+                });
+                inp.addEventListener("keydown", function(e) {
+                    var x = document.getElementById(this.id + "autocomplete-list");
+                    if (x) x = x.getElementsByTagName("div");
+                    if (e.keyCode == 40) {
+                        currentFocus++;
+                        addActive(x);
+                    } else if (e.keyCode == 38) { //up
+                     currentFocus--;
+                      addActive(x);
+                    } else if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (currentFocus > -1) {
+                        if (x) x[currentFocus].click();
+                      }
+                    }
+                });
+                function addActive(x) {
+                    if (!x) return false;
+                    removeActive(x);
+                    if (currentFocus >= x.length) currentFocus = 0;
+                    if (currentFocus < 0) currentFocus = (x.length - 1);
+                    x[currentFocus].classList.add("autocomplete-active");
+                }
+                function removeActive(x) {
+                    for (var i = 0; i < x.length; i++) {
+                        x[i].classList.remove("autocomplete-active");
+                    }
+                }
+                function closeAllLists(elmnt) {
+                    var x = document.getElementsByClassName("autocomplete-items");
+                    for (var i = 0; i < x.length; i++) {
+                        if (elmnt != x[i] && elmnt != inp) {
+                            x[i].parentNode.removeChild(x[i]);
+                        }
+                    }
+                }
+                document.addEventListener("click", function (e) {
+                    closeAllLists(e.target);
+                });
+            }
+
+            var judges_names = js_vars.judges
+            autocomplete(document.getElementById("id_judge1"), judges_names);
+            autocomplete(document.getElementById("id_judge2"), judges_names);
+            autocomplete(document.getElementById("id_judge3"), judges_names);
+
+
+            </script>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_petitioners"></label><input id="id_petitioners" name= "petitioners" type="text" placeholder="Petitioners">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_onbehalf"></label><input id="id_onbehalf" name= "onbehalf" type="text" placeholder="On behalf of:">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_respondents"></label><input id="id_respondents" name= "respondents" type="text" placeholder="Respondent(s):">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_petn_advocate"></label><input id="id_petn_advocate" name= "petn_advocate" type="text" placeholder="Petitioner's Advocate(s):">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_resp_advocate"></label><input id="id_resp_advocate" name= "resp_advocate" type="text" placeholder="Respondent's Advocate(s):">
+                </div>
+
+              </div>
+              <div class="form-group">
+                <div class="row">
+                <label for="id_company"></label><input id="id_company" name= "company" type="text" placeholder="Company involved (if any):">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_state"></label><input id="id_state" name= "state" type="text" placeholder="State and District:">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                <label for="id_river"></label><input id="id_river" name= "river" type="text" placeholder="River/Waterbody:">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                {% formfield player.appeal %}
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                {% formfield player.constitutional %}
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                    {% formfield player.govrole %}
+              </div>
+
+              <div class="form-group">
+                <div class="row">
+                {% formfield player.socimp %}
+                </div>
+              </div>
+
+
+          </form>
+          {% next_button %}
+          <script type="text/javascript">
+            $(".tm-input").tagsManager();
+
+            window.onscroll = function() {myFunction()};
+
+            function myFunction() {
+              var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+              var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+              var scrolled = (winScroll / height) * 100;
+              document.getElementById("myBar").style.width = scrolled + "%";
+            }
+
+          </script>
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+{% endblock %}

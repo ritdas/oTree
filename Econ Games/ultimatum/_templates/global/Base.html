@@ -1,0 +1,17 @@
+{% extends "otree/FormPage.html" %}
+{% load staticfiles otree_tags %}
+
+
+{% block global_styles  %}
+{% endblock %}
+
+{% block global_scripts  %}
+
+<script type="text/javascript">
+  var playerpk={{player.pk}};
+  var grouppk={{group.id}};
+</script>
+  <script src="{% static "trust/channelconnect.js" %}"></script>
+  <script src="{% static "trust/focus.js" %}"></script>
+
+{% endblock %}
