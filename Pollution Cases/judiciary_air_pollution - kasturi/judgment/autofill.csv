@@ -1,0 +1,740 @@
+sl_no,judge_name,states,districts
+1,A B Khadiri,Andhra Pradesh,Anantapur
+2,A Bhate,Arunachal Pradesh,Chittoor
+3,A Bhushan,Assam,East Godavari
+4,A Bose,Bihar,Guntur
+5,A C Qureshi,Chhatisgarh,YSR Kadapa
+6,A C Rao,Goa,Krishna
+7,A Chaudhary,Gujarat,Kurnool
+8,A Chowdhri Garg,Haryana,Prakasam
+9,A D Singh,Himachal Pradesh,Sri Potti Sriramulu Nellore
+10,A Divecha,Jharkhand,Srikakulam
+11,A Ganguly,Karnataka,Visakhapatnam
+12,A Hariprasad,Kerala,Vizianagaram
+13,A K Ganguly,Madhya Pradesh,West Godavari
+14,A K Menon,Maharashtra,Anjaw
+15,A K Patnaik,Manipur,Changlang
+16,A K Rath,Meghalaya,East Kameng
+17,A K Sikri,Mizoram,East Siang
+18,A K Singh,Nagaland,Kamle
+19,A Kabir,Odisha,Kra Daadi
+20,A Kulasekaran,Punjab,Kurung Kumey
+21,A L Dave,Rajasthan,Lepa Rada
+22,A M Ahmadi,Sikkim,Lohit
+23,A M Basheer Ahamed,Tamil Nadu,Longding
+24,A M Khanwilkar,Telangana,Lower Dibang Valley
+25,A M Shaffique,Tripura,Lower Siang
+26,A Muhamed Mustaque,Uttar Pradesh,Lower Subansiri
+27,A N Jindal,Uttarakhand,Namsai
+28,A N Venugopala Gowda,West Bengal,Pakke-Kessang
+29,A P Sahi,Andaman and Nicobar,Papum Pare
+30,A P Shah,Chandigarh,Shi Yomi
+31,A P Sinha,Daman and Diu,Siang
+32,A P Thaker,Dadra and Nagar Haveli,Tawang
+33,A Pasayat,Jammu and Kashmir,Tirap
+34,A Qureshi,Ladakh,Upper Dibang Valley
+35,A R Yousuf,Lakshadweep,Upper Siang
+36,A S Bopanna,NCT of Delhi,Upper Subansiri
+37,A S Chandurkar,Puducherry,West Kameng
+38,A S Gadkari,,West Siang
+39,A S Naidu,,Baksa
+40,A S Oka,,Barpeta
+41,A Sen,,Bishwanath
+42,A Shah,,Bongaigaon
+43,A Sikri,,Cachar
+44,A Singh,,Charaideo
+45,A Tiwari,,Chirang
+46,A Y Kogje,,Darrang
+47,Aakanksha Vyas,,Dhemaji
+48,Abdul Quddhose,,Dhubri
+49,Abhilasha Kumari,,Dibrugarh
+50,Aftab Alam,,Dima Hasao
+51,Ahsanuddin Amanullah,,Goalpara
+52,Ajay A Deshpande,,Golaghat
+53,Ajay Bhanot,,Hailakandi
+54,Ajay Garg,,Hojai
+55,Ajay Kumar Mittal,,Jorhat
+56,Ajay Mohan Goel,,Kamrup
+57,Ajit Singh,,Kamrup Metropolitan
+58,Akbar Basha Khadiri,,Karbi Anglong
+59,Akhilesh Chandra,,Karimganj
+60,Akil Kureshi,,Kokrajhar
+61,Alok Aradhe,,Lakhimpur
+62,Alok Sharma,,Majuli
+63,Alok Singh,,Morigaon
+64,Amit Rawal,,Nagaon
+65,Amitav K Gupta,,Nalbari
+66,Amitava Roy,,Sivasagar
+67,Amreshwar Pratap Sahi,,South Salmara
+68,Anand Byrareddy,,Sonitpur
+69,Ananda Sen,,Tinsukia
+70,Anant Bijay Singh,,Udalguri
+71,Anant Kumar,,West Karbi Anglong
+72,Anant S Dave,,Araria
+73,Anil Dev Singh,,Arwal
+74,Anil Kumar Choudhary,,Aurangabad
+75,Aniruddha Bose,,Banka
+76,Anjana Mishra,,Begusarai
+77,Anjana Mishraustice I A Ansari,,Bhagalpur
+78,Antony Dominic,,Bhojpur
+79,Anu Sivaraman,,Buxar
+80,Anubha Rawat Choudhary,,Darbhanga
+81,Anupinder Singh Grewal,,East Champaran
+82,Aparesh Kumar Singh,,Gaya
+83,Aravind Kumar,,Gopalganj
+84,Arijit Pasayat,,Jamui
+85,Arun Mishra,,Jehanabad
+86,Aruna Jagadeesan,,Kaimur
+87,Arvind Vastava,,Katihar
+88,Arvind Vastavayoti Saran,,Khagaria
+89,Ashim Kumar Roy,,Kishanganj
+90,Ashis Kumar Chakraborty,,Lakhisarai
+91,Ashok Bhushan,,Madhepura
+92,Ashok G Nijagannavar,,Madhubani
+93,Ashwani Kumar Singh,,Munger
+94,Asim Kumar Ray,,Muzaffarpur
+95,Atul Krishna Aggrawal,,Nalanda
+96,Augustine George Masih,,Nawada
+97,B Akbar Basha Khadiri,,Patna
+98,B Arora,,Purnia
+99,B C Patel,,Rohtas
+100,B Chakrabarti,,Saharsa
+101,B Deshmukh,,Samastipur
+102,B Gupta,,Saran
+103,B H Marlapalle,,Sheikhpura
+104,B Jeevan Reddy,,Sheohar
+105,B Kirpal,,Sitamarhi
+106,B N Mahapatra,,Siwan
+107,B P Colabawalla,,Supaul
+108,B P Dharmadhikari,,Vaishali
+109,B P Jeevan Reddy,,West Champaran
+110,B P Katakey,,Balod
+111,B Pardiwala,,Baloda Bazar
+112,B Patel,,Balrampur
+113,B R Arora,,Bastar
+114,B Rajendran,,Bemetara
+115,B S Rao,,Bijapur
+116,B S Reddy,,Bilaspur
+117,B Seshasayana Reddy,,Dantewada
+118,B Sharma,,Dhamtari
+119,B Somasekhara,,Durg
+120,B Subhashan Reddy,,Gariaband
+121,B Sudheendra Kumar,,Gaurela-Pendra-Marwahi
+122,B Thulasidas,,Janjgir-Champa
+123,B V Nagarathna,,Jashpur
+124,Babita Puniya,,Kabirdham
+125,Badar Durrez Ahmed,,Kanker
+126,Bankim N Mehta,,Kondagaon
+127,Bhaskar Bhattacharya,,Korba
+128,Bikram Singh Sajwan,,Koriya
+129,Biswanath Rath,,Mahasamund
+130,Biswanath Somadder,,Mungeli
+131,Blackburneevan Reddy,,Narayanpur
+132,Budihal R B,,Raigarh
+133,C Buch,,Raipur
+134,C Chaudhry,,Rajnandgaon
+135,C F I Rebello,,Sukma
+136,C K Abdul Rehim,,Surajpur
+137,C K Buch,,Surguja
+138,C K M Joseph,,North Goa
+139,C K S Radhakrishnan,,South Goa
+140,C K Thakker,,Ahmedabad
+141,C N Ramachandran Nair,,Amreli
+142,C Nagappan,,Anand
+143,C R Dash,,Aravalli
+144,C R Kumarasivam,,Banaskantha
+145,C R Kumaraswamy,,Bharuch
+146,C S Karnan,,Bhavnagar
+147,C Saravanan,,Botad
+148,C T Ravikumar,,Chhota Udepur
+149,C T Selvam,,Dahod
+150,C V Bhadang,,Dang
+151,C V Ramulu,,Devbhoomi Dwarka
+152,Chakradhari Sharan Singh,,Gandhinagar
+153,D Baruah,,Gir Somnath
+154,D Bhandari,,Jamnagar
+155,D Buch,,Junagadh
+156,D C Vastava,,Kheda
+157,D Y Chandrachud,,Kutch
+158,D Deshpande,,Mahisagar
+159,D Gupta,,Mehsana
+160,D H Waghela,,Morbi
+161,D K Agrawal,,Narmada
+162,D K Paliwal,,Navsari
+163,D Karia,,Panchmahal
+164,D Mehta,,Patan
+165,D Misra,,Porbandar
+166,D Mohapatra,,Rajkot
+167,D Murugesan,,Sabarkantha
+168,D P Mohapatra,,Surat
+169,D S Kumar,,Surendranagar
+170,D Sinha,,Tapi
+171,D Subrahmanyam,,Vadodara
+172,D V Sharma,,Valsad
+173,D Vastava,,Ambala
+174,D Waghela,,Bhiwani
+175,Dalip Singh,,Charkhi Dadri
+176,Dalveer Bhandari,,Faridabad
+177,Darshan Singh,,Fatehabad
+178,Deepak Wason,,Gurgaon
+179,Devan Ramachandran,,Hissar
+180,Devendra Kumar Agrawal,,Jhajjar
+181,Devendra Sharma,,Jind
+182,Devi Prasad Singh,,Kaithal
+183,Devinder Gupta,,Karnal
+184,Dharma Rao Elipe,,Kurukshetra
+185,Dhiraj Singh Thakur,,Mahendragarh
+186,Dig Singh,,Nuh
+187,Dinesh Kumar,,Palwal
+188,Dinesh Kumar Singh,,Panchkula
+189,Dinesh Maheshwari,,Panipat
+190,Dipak Misra,,Rewari
+191,Dipankar Datta,,Rohtak
+192,Doraiswamy Raju,,Sirsa
+193,E S Venkatramaiyah,,Sonipat
+194,Elipe Dharma Rao,,Yamuna Nagar
+195,F M Ibrahim Kalifulla,,Bilaspur
+196,F Rebello,,Chamba
+197,Faizan Uddin,,Hamirpur
+198,Fateh Deep Singh,,Kangra
+199,Ferdino Inacio Rebello,,Kinnaur
+200,G Bharuka,,Kullu
+201,G Jain,,Lahaul and Spiti
+202,G K Ilanthiraiyan,,Mandi
+203,G K Pandey,,Shimla
+204,G Mital,,Sirmaur
+205,G P Goud,,Solan
+206,G P Singh,,Una
+207,G Rohini,,Bokaro
+208,G S Patel,,Chatra
+209,Gita Mittal,,Deoghar
+210,Goutam Bhaduri,,Dhanbad
+211,Govind Mathur,,Dumka
+212,Gurdev Singh,,East Singhbhum
+213,Gurha Brahmana,,Garhwa
+214,Gurmeet Singh Sandhawalia,,Giridih
+215,Gyan Sudha Misra,,Godda
+216,H B Antani,,Gumla
+217,H C Mishra,,Hazaribag
+218,H Goel,,Jamtara
+219,H Gokhale,,Khunti
+220,H H Mehta,,Koderma
+221,H L Bajaj,,Latehar
+222,H L Dattu,,Lohardaga
+223,H L Gokhale,,Pakur
+224,H Mehta,,Palamu
+225,H N Das,,Ramgarh
+226,H N Devani,,Ranchi
+227,H N Nagamohan Das,,Sahibganj
+228,H N Tilhari,,Seraikela Kharsawan
+229,H R Khanna,,Simdega
+230,H R Panwar,,West Singhbhum
+231,H S Rai,,Bagalkot
+232,Hari Nath Tilhari,,Ballari
+233,Harinder Singh Sidhu,,Belgaum
+234,Hemant Gupta,,Bangalore Rural
+235,Huluvadi G Ramesh,,Bangalore Urban
+236,I A Ansari,,Bidar
+237,I J Kapoor,,Chamarajanagara
+238,I Mahanty,,Chikkaballapura
+239,Indira Banerjee,,Chikmagalur
+240,Indrajit Mahanty,,Chitradurga
+241,Irshad Ali,,Dakshina Kannada
+242,J Agdish Singh Khehar,,Davanagere
+243,J B Pardiwala,,Dharwad
+244,J Bhatt,,Gadag
+245,J Chelameswar,,Gulbarga
+246,J Devadhar,,Hassan
+247,J K Maheshwari,,Haveri
+248,J Mathur,,Kodagu
+249,J Mehta,,Kolar
+250,J N Patel Patel,,Koppal
+251,J Pardiwala,,Mandya
+252,J S Klar,,Mysore
+253,J Sekhon,,Raichur
+254,Janak Raj Kotwal,,Ramanagara
+255,Jarat Kumar Jain,,Shimoga
+256,Jasbir Singh,,Tumakuru
+257,Jaspal Singh,,Udupi
+258,Jawad Rahimawad Rahim,,Uttara Kannada
+259,Jaya Roy,,Bijapur
+260,Jayanandan Singh,,Yadgir
+261,Jayant Nathayant Nath,,Alappuzha
+262,Jitendra Chauhan,,Ernakulam
+263,John Michael Cunhaohn,,Idukki
+264,Jora Singh,,Kannur
+265,Jyoti Saran,,Kasaragod
+266,Jyotirmay Bhattacharya,,Kollam
+267,K A Mohamed Shafi,,Kottayam
+268,K Abraham Mathew,,Kozhikode
+269,K B Nair,,Malappuram
+270,K Bhatt,,Palakkad
+271,K C Puri,,Pathanamthitta
+272,K Chandru,,Thrissur
+273,K G Balakrishnan,,Thiruvananthapuram
+274,K Joseph,,Wayanad
+275,K K Sasidharan,,Agar Malwa
+276,K K Trivedi,,Alirajpur
+277,K Kalyanasundaram,,Anuppur
+278,K L Manjunath,,Ashok Nagar
+279,K L Vastava,,Balaghat
+280,K M Joseph,,Barwani
+281,K M Shafi,,Betul
+282,K M Thaker,,Bhind
+283,K N Keshavanarayana,,Bhopal
+284,K N Phaneendra,,Burhanpur
+285,K Natarajan,,Chachaura-Binaganj
+286,K Puj,,Chhatarpur
+287,K Radhakrishnan,,Chhindwara
+288,K Ramamoorthy,,Damoh
+289,K Rathore,,Datia
+290,K S Radhakrishnan,,Dewas
+291,K Singh,,Dhar
+292,K Sukumaran,,Dindori
+293,K Surendra Mohan,,Guna
+294,K T Sankaran,,Gwalior
+295,K Vaidya,,Harda
+296,K Vastava,,Hoshangabad
+297,K Venkataraman,,Indore
+298,K Venkataswami,,Jabalpur
+299,K Vidya,,Jhabua
+300,Kailash Gambhir,,Katni
+301,Kanwaljit Singh Ahluwalia,,Khandwa (East Nimar)
+302,Kishore Kumar,,Khargone (West Nimar)
+303,Kishore Kumar Mandal,,Maihar
+304,Krishn Kumar Lahoti,,Mandla
+305,Krishna S Dixit,,Mandsaur
+306,Krishnan Ramasamy,,Morena
+307,Kuldip Singh,,Narsinghpur
+308,L Mohapatra,,Nagda
+309,L Narayana Swamy,,Neemuch
+310,L Prasad,,Niwari
+311,Lisa Gill,,Panna
+312,Lokeshwar Singh Panta,,Raisen
+313,M Anwar,,Rajgarh
+314,M B Lokur,,Ratlam
+315,M B Shah,,Rewa
+316,M B Shah Comion,,Sagar
+317,M C Hari Rani,,Satna
+318,M Chinnappa,,Sehore
+319,M Chockalingam,,Seoni
+320,M Duraiswamy,,Shahdol
+321,M Eqbal,,Shajapur
+322,M Govindaraj,,Sheopur
+323,M J Rao,,Shivpuri
+324,M Jagannadha Rao,,Sidhi
+325,M Jaichandren,,Singrauli
+326,M K Mudgal,,Tikamgarh
+327,M Karpagavinayagam,,Ujjain
+328,M Katju,,Umaria
+329,M M Das,,Vidisha
+330,M M Kumar,,Ahmednagar
+331,M M Sundresh,,Akola
+332,M Menon,,Amravati
+333,M N Krishnan,,Aurangabad
+334,M Narain,,Beed
+335,M P Menon,,Bhandara
+336,M Ranga,,Buldhana
+337,M Rao,,Chandrapur
+338,M S Karnik,,Dhule
+339,M S Nambiar,,Gadchiroli
+340,M S Shah,,Gondia
+341,M S Sonak,,Hingoli
+342,M Sasidharan Nambiar,,Jalgaon
+343,M Sathyanarayanan,,Jalna
+344,M Satyanarayana Murthy,,Kolhapur
+345,M Shah,,Latur
+346,M Shantanagoudar,,Mumbai City
+347,M Sharma,,Mumbai suburban
+348,M Singhal,,Nanded
+349,M Sundar,,Nandurbar
+350,M Suresh,,Nagpur
+351,M Venugopal,,Nashik
+352,M Verma,,Osmanabad
+353,M Yamin,,Palghar
+354,Madan B Lokur,,Parbhani
+355,Mahabir Singh Sindhu,,Pune
+356,Mahavir S Chauhan,,Raigad
+357,Mahesh Bhagwati,,Ratnagiri
+358,Mahesh Chandra Sharma,,Sangli
+359,Mahinder Narain,,Satara
+360,Manju Goel,,Sindhudurg
+361,Manjula Chellur,,Solapur
+362,H Billappa,,Thane
+363,Manoj Kumar,,Wardha
+364,Mary Joseph,,Washim
+365,Mehinder Singh Sullar,,Yavatmal
+366,Michael Cunhaohn,,Bishnupur
+367,Mohammad Nawaz,,Chandel
+368,Mohammad Rafiq,,Churachandpur
+369,Mohinder Pal,,Imphal East
+370,Mohit S Shah,,Imphal West
+371,Mridula Bhatkar,,Jiribam
+372,Mukundakam Sharma,,Kakching
+373,N Ananda,,Kamjong
+374,N Balasubramanian,,Kangpokpi
+375,N Jain,,Noney
+376,N K Patiludicial Member,,Pherzawl
+377,N K Sudhindrarao,,Senapati
+378,N Kirubakaran,,Tamenglong
+379,N Kumar,,Tengnoupal
+380,N N Tiwari,,Thoubal
+381,N Paul Vasanthakumar,,Ukhrul
+382,N Rai,,East Garo Hills
+383,N Seshasayee,,East Khasi Hills
+384,N Sodhi,,East Jaintia Hills
+385,N Sud,,North Garo Hills
+386,N Tiwari,,Ri Bhoi
+387,N V Anjaria,,South Garo Hills
+388,N V Balasubramanian,,South West Garo Hills
+389,N V Ramana,,South West Khasi Hills
+390,Nan P Singh,,West Jaintia Hills
+391,Nanaya Roy,,West Garo Hills
+392,Narayan Shukla,,West Khasi Hills
+393,Narendra Nath Tiwari,,Aizawl
+394,Naresh H Patil,,Champhai
+395,Nilu Agrawal,,Hnahthial
+396,Nirmaljit Kaur,,Khawzawl
+397,Nishita Mhatre,,Kolasib
+398,P A Choudary,,Lawngtlai
+399,P B Majmudar,,Lunglei
+400,P B Pardiwala,,Mamit
+401,P B Suresh Kumar,,Saiha
+402,P Balasubramanyan,,Saitual
+403,P Basu,,Serchhip
+404,P Bhagwati,,Dimapur
+405,P C Mishra,,Kiphire
+406,P D Audikesavalu,,Kohima
+407,P D Dinakaran,,Longleng
+408,P D Dinakaran,,Mokokchung
+409,V G Sabhahit,,Mon
+410,P Jyothimani,,Noklak
+411,P K Jaiswal,,Peren
+412,P K Lohra,,Phek
+413,P Kakade,,Tuensang
+414,P Kohli,,Wokha
+415,P Mohanty,,Zunheboto
+416,P N Ravindran,,Angul
+417,P P Bhatt,,Boudh (Bauda)
+418,Janarthana Raja,,Bhadrak
+419,K Raviraja Pandian,,Balangir
+420,P Pasayat,,Bargarh (Baragarh)
+421,P R Gokulakrishnan,,Balasore
+422,P R Ramachandra Menon,,Cuttack
+423,P R Shivakumar,,Debagarh (Deogarh)
+424,P S Dinesh Kumar,,Dhenkanal
+425,P S Rao,,Ganjam
+426,P Sahay,,Gajapati
+427,P Sathasivam,,Jharsuguda
+428,P Singh,,Jajpur
+429,P Ubaid,,Jagatsinghpur
+430,P V Kakade,,Khordha
+431,P Velmurugan,,Kendujhar (Keonjhar)
+432,Pankaj Kumar Jaiswal,,Kalahandi
+433,Paramjeet Singh,,Kandhamal
+434,B P Dharmadhikari,,Koraput
+435,Pinaki Chandra Ghose,,Kendrapara
+436,Pius C Kuriakose,,Malkangiri
+437,Prabha Devan,,Mayurbhanj
+438,Prabhat Kumar Singh,,Nabarangpur
+439,Prabhat Kumar Singhu,,Nuapada
+440,Pradeep Nandrajog,,Nayagarh
+441,Prasanna B Varale,,Puri
+442,Pratap Singh,,Rayagada
+443,Pratibha Rani,,Sambalpur
+444,Principal Bench,,Subarnapur (Sonepur)
+445,Pushpa Sathyanarayana,,Sundargarh
+446,R Abichandani,,Amritsar
+447,R Babu,,Barnala
+448,R Banumathi,,Bathinda
+449,R C Lahoti,,Firozpur
+450,R C Mankad,,Faridkot
+451,R C Trivedi,,Fatehgarh Sahib
+452,R D Dhanuka,,Fazilka[14]
+453,R Dinakaran,,Gurdaspur
+454,R Garg,,Hoshiarpur
+455,R Gururajan,,Jalandhar
+456,R Hemalatha,,Kapurthala
+457,R K Abichandani,,Ludhiana
+458,R K Mahajan,,Mansa
+459,R K Mitra,,Moga
+460,R Khurana,,Sri Muktsar Sahib
+461,R Kochar,,Pathankot
+462,R Kumar,,Patiala
+463,R L Khurana,,Rupnagar
+464,R M Chhaya,,Sahibzada Ajit Singh Nagar
+465,R Mahajan,,Sangrur
+466,R Merathia,,Shahid Bhagat Singh Nagar
+467,R Misra,,Tarn Taran
+468,R Nagendran,,Ajmer
+469,R Nariman,,Alwar
+470,R P Dholakia,,Bikaner
+471,R P Dholaria,,Barmer
+472,R Pongiappan,,Banswara
+473,R Pyne,,Bharatpur
+474,R R Prasad,,Baran
+475,R Rathinasami,,Bundi
+476,R Raveendran,,Bhilwara
+477,R S Garg,,Churu
+478,R S Jha,,Chittorgarh
+479,R Sharma,,Dausa
+480,R Subbiah,,Dholpur
+481,R Subramanian,,Dungarpur
+482,R Suresh Kumar,,Ganganagar
+483,R Suresh Kumaru,,Hanumangarh
+484,R Tripathi,,Jhunjhunu
+485,R V Raveendran,,Jalore
+486,Raja Vijayaraghavan V,,Jodhpur
+487,Rajan Roy,,Jaipur
+488,Rajbir Sehrawat,,Jaisalmer
+489,Rajeev Kumar Dubey,,Jhalawar
+490,Rajeev Singh,,Karauli
+491,Rajendra Kumar,,Kota
+492,Rajendra Kumar Mishra,,Nagaur
+493,Rajendra Mahajan,,Pali
+494,Rajesh H Shukla,,Pratapgarh
+495,Rajesh Shankar,,Rajsamand
+496,Rajiv Narain Raina,,Sikar
+497,Rajiv Sahai Endlaw,,Sawai Madhopur
+498,Rajiv Sharma,,Sirohi
+499,Rakesh Kumar Jain,,Tonk
+500,Rakesh Kumari,,Udaipur
+501,Ram Mohan Reddy,,East Sikkim
+502,Ramendra Jain,,North Sikkim
+503,Ramesh Kumar,,South Sikkim
+504,Ramesh Kumar Datta,,West Sikkim
+505,Ramesh Kumaru,,Ariyalur
+506,Ramesh Ranganathan,,Chengalpattu
+507,Rameshwar Singh Malik,,Chennai
+508,Ranjan Chatterjee,,Coimbatore
+509,Ranjan Gogoi,,Cuddalore
+510,Ranjana Prakash Desai,,Dharmapuri
+511,Ranjit More,,Dindigul
+512,Ravi Malimath,,Erode
+513,Ravi R Tripathi,,Kallakurichi
+514,Rd Dinakaran,,Kanchipuram
+515,Rohinton Fali Nariman,,Kanyakumari
+516,Rongon Mukhopadhyay,,Karur
+517,Ruchika Singla,,Krishnagiri
+518,S A Bobde,,Madurai
+519,S A Bobdeagdish Singh Khehar,,Mayiladuthurai
+520,S A Dharmadhikari,,Nagapattinam
+521,S Abidi,,Nilgiris
+522,S Agarwal,,Namakkal
+523,S Ahmed,,Perambalur
+524,S B Majmudar,,Pudukkottai
+525,S B Sinha,,Ramanathapuram
+526,S Brahmbhatt,,Ranipet
+527,S C Dharmadhikari,,Salem
+528,S C Sharma,,Sivaganga
+529,S Chadha,,Tenkasi
+530,S Chawla,,Tirupur
+531,S Dubey,,Tiruchirappalli
+532,S H Abidi,,Theni
+533,S H Kapadia,,Tirunelveli
+534,S Haider Shaukat Abidi,,Thanjavur
+535,S Harkauli,,Thoothukudi
+536,S Hasan,,Tirupattur
+537,S J Kathawalla,,Tiruvallur
+538,S J Mukhopadhaya,,Tiruvarur
+539,S Jha,,Tiruvannamalai
+540,S K Awasthi,,Vellore
+541,S K Keshote,,Viluppuram
+542,S K Palo,,Virudhunagar
+543,S K Shinde,,Adilabad
+544,S Keshote,,Komaram Bheem
+545,S Khan,,Bhadradri Kothagudem
+546,S Khanna,,Hyderabad
+547,S Krishnan,,Jagtial
+548,S Kumar,,Jangaon
+549,S Kurdukar,,Jayashankar Bhupalpally
+550,S Mahajan,,Jogulamba Gadwal
+551,S Malte,,Kamareddy
+552,S Manikumar,,Karimnagar
+553,S Mohanty,,Khammam
+554,S Mukhopadhaya,,Mahabubabad
+555,S Muralidhar,,Mahbubnagar
+556,S N Aggarwal,,Mancherial
+557,S N Hussain,,Medak
+558,S N Shukla,,Medchal-Malkajgiri
+559,S Nagamuthu,,Mulugu
+560,S Nayak,,Nalgonda
+561,S Nayer Hussain,,Narayanpet
+562,S Nijjar,,Nagarkurnool
+563,S Parkar,,Nirmal
+564,S R Alam,,Nizamabad
+565,S R Babu,,Peddapalli
+566,S R Brahmbhatt,,Rajanna Sircilla
+567,S R Krishna Kumar,,Ranga Reddy
+568,S R Nayak,,Sangareddy
+569,S Radhakrishnan,,Siddipet
+570,S Reddy,,Suryapet
+571,S Roy,,Vikarabad
+572,S S A,,Wanaparthy
+573,S S Chadha,,Warangal Urban
+574,S S Hasan,,Warangal Rural
+575,S S Saron,,Yadadri Bhuvanagiri
+576,S S Shinde,,Dhalai
+577,S S Sundar,,Gomati
+578,S Saghir Ahmad,,Khowai[15]
+579,S Sandhawalia,,North Tripura
+580,S Sinha,,Sepahijala[16]
+581,S Sujatha,,South Tripura
+582,S Talapatra,,Unokoti[17]
+583,S Tamilvanan,,West Tripura
+584,S Thangaraj,,Agra
+585,S V Bhatt,,Aligarh
+586,S Vaidyanathan,,Allahabad
+587,Samarendra Pratap Singh,,Ambedkar Nagar
+588,Sambuddha Chakrabarti,,Amethi
+589,Sandeep Garg,,Amroha
+590,Sandeep K Shinde,,Auraiya
+591,Sangeet Lodha,,Azamgarh
+592,Sangita Dhingra Sehgal,,Bagpat
+593,Sanjay K Agrawal,,Bahraich
+594,Sanjay Kishan Kaul,,Ballia
+595,Sanjay Kumar,,Balrampur
+596,Sanjay Priya,,Banda
+597,Sanjay Priyaustice Sanjay Priya,,Barabanki
+598,Sanjeev Kumar,,Bareilly
+599,Sanjeev Sachdeva,,Basti
+600,Sanjib Banerjee,,Bhadohi
+601,Sanjib Banerjeeyotirmay Bhattacharya,,Bijnor
+602,Sarang V Kotwal,,Budaun
+603,Satish K Agnihotri,,Bulandshahr
+604,Satish Kumar Mittal,,Chandauli
+605,Satyabrata Sinha,,Chitrakoot
+606,Sh Deepak Wason,,Deoria
+607,Shail Jain,,Etah
+608,Shailendra Shukla,,Etawah
+609,Shantanu S Kemkar,,Faizabad
+610,Sharad Kumar Sharma,,Farrukhabad
+611,Sheel Nagu,,Fatehpur
+612,Shekher Dhawan,,Firozabad
+613,Sneh Prashar,,Gautam Buddh Nagar
+614,Subramonium Prasad,,Ghaziabad
+615,Sudhanshu Dhulia,,Ghazipur
+616,Sudhir Agarwal,,Gonda
+617,Sudhir Mittal,,Gorakhpur
+618,Suhas C Sen,,Hamirpur
+619,Sunil Gaur,,Hapur
+620,Sunil K Kotwal,,Hardoi
+621,Sunil Thomas,,Hathras
+622,Sureshwar Thakur,,Jalaun
+623,Surinder Pal Kaur,,Jaunpur
+624,Surinder Singh Nijjar,,Jhansi
+625,Surya Kant,,Kannauj
+626,Sushil Kumar Palo,,Kanpur Dehat
+627,Swatanter Kumar,,Kanpur Nagar
+628,Syamal Kanti Chakrabarti,,Kasganj
+629,T C Rao,,Kaushambi
+630,T Chatterjee,,Kushinagar
+631,T Doabia,,Lakhimpur Kheri
+632,T K Kaushal,,Lalitpur
+633,T R Nair,,Lucknow
+634,T R Ramachandran Nair,,Maharajganj
+635,T Ravindran,,Mahoba
+636,T S Doabia,,Mainpuri
+637,T S Sivagnanam,,Mathura
+638,T S Thakur,,Mau
+639,T S Thakurasbir Singh,,Meerut
+640,T Sen,,Mirzapur
+641,T V Nalawade,,Moradabad
+642,Tarun Agarwala,,Muzaffarnagar
+643,Tarun Chatterjee,,Pilibhit
+644,Tarun Kumar Kaushal,,Pratapgarh
+645,Thomas P Joseph,,Raebareli
+646,Thottathil B Radhakrishnan,,Rampur
+647,U C Banerjee,,Saharanpur
+648,U C Dhyani,,Sambhal
+649,U D Salvi,,Sant Kabir Nagar
+650,U Pandey,,Shahjahanpur
+651,Uma Devi,,Shamli[18]
+652,Umesh Chandra Banerjee,,Shravasti
+653,V Bakthavatsalu,,Siddharthnagar
+654,V Bali,,Sitapur
+655,V Dhanapalan,,Sonbhadra
+656,V Giri,,Sultanpur
+657,V Gopala Gowda,,Unnao
+658,V Gupta,,Varanasi
+659,V I Ramaswami,,Almora
+660,V M Sahai,,Bageshwar
+661,V Malimath,,Chamoli
+662,V Narayan,,Champawat
+663,V Parthiban,,Dehradun
+664,V R Kingaonkar,,Haridwar
+665,V Ramasubramanian,,Nainital
+666,V Ramaswami,,Pauri Garhwal
+667,V Rao,,Pithoragarh
+668,V S Sirpurkar,,Rudraprayag
+669,V Sabhahit,,Tehri Garhwal
+670,V Singh,,Udham Singh Nagar
+671,Vandana Kasrekar,,Uttarkashi
+672,Veena Birbal,,Alipurduar
+673,Veerendra Singh Siradhana,,Bankura
+674,Vijay Bishnoi,,Paschim Bardhaman
+675,Vijay Manohar,,Purba Bardhaman
+676,Vijay Manohar Sahai,,Birbhum
+677,Vineet Kothari,,Cooch Behar
+678,Vineet Saran,,Dakshin Dinajpur
+679,Vipin Sanghi,,Darjeeling
+680,Virendra Singh,,Hooghly
+681,Vishnu Chandra Gupta,,Howrah
+682,Vishnu Pratap Singh,,Jalpaiguri
+683,Vishnu Pratap Singh Chauhan,,Jhargram
+684,Vivek Varma,,Kalimpong
+685,Yashvardhan Kumar Sinha,,Kolkata
+686,Z K Saiyed,,Maldah
+687,,,Murshidabad
+688,,,Nadia
+689,,,North 24 Parganas
+690,,,Paschim Medinipur
+691,,,Purba Medinipur
+692,,,Purulia
+693,,,South 24 Parganas
+694,,,Uttar Dinajpur
+695,,,Nicobar
+696,,,North and Middle Andaman
+697,,,South Andaman
+698,,,Chandigarh
+699,,,Daman
+700,,,Diu
+701,,,Dadra and Nagar Haveli
+702,,,Anantnag
+703,,,Bandipora
+704,,,Baramulla
+705,,,Badgam
+706,,,Doda
+707,,,Ganderbal
+708,,,Jammu
+709,,,Kathua
+710,,,Kishtwar
+711,,,Kulgam
+712,,,Kupwara
+713,,,Poonch
+714,,,Pulwama
+715,,,Rajouri
+716,,,Ramban
+717,,,Reasi
+718,,,Samba
+719,,,Shopian
+720,,,Srinagar
+721,,,Udhampur
+722,,,Kargil
+723,,,Leh
+724,,,Lakshadweep
+725,,,Central Delhi
+726,,,East Delhi
+727,,,New Delhi
+728,,,North Delhi
+729,,,North East Delhi
+730,,,North West Delhi
+731,,,Shahdara
+732,,,South Delhi
+733,,,South East Delhi
+734,,,South West Delhi
+735,,,West Delhi
+736,,,Karaikal
+737,,,Mahé
+738,,,Pondicherry
+739,,,Yanam
