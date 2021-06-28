@@ -19,7 +19,8 @@ class Results(Page):
            'appeal',
            'constitutional',
            'govrole',
-           'socimp'
+           'socimp',
+           'reflection'
            ]
   def vars_for_template(self):
     return dict(link='Kanoon_html/{}.html'.format(self.player.judlink)

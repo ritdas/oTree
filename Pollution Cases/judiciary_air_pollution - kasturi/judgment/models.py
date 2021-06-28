@@ -89,3 +89,4 @@ class Player(BasePlayer):
     # river = models.StringField(blank=True)
     govrole = models.StringField(label="Government's Role", choices=["Petitioner", "Respondent", "Both", "None"])
     socimp = models.StringField(label="Is this judgment likely to have a positive impact on the environment?", choices=["Yes", "No"])
+    reflection = models.TextField(label="What are your reflections on this case?", null=True, blank=True)
